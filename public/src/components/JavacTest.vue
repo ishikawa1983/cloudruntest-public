@@ -25,7 +25,7 @@ export default {
 public class JavaTest {
   public static void main(String[] args){  
     System.out.println("Hello, world!");
-    // Javaコードを書いてみよう！
+    // Javaコードを書いてみましょう！
 
     //List<Integer> integerList = Arrays.asList(1, 2, 3, 4, 5);
     //integerList.stream()
